@@ -1,7 +1,7 @@
 {
   "router": [
     {
-      "name": "router",
+      "name": "router1",
       "id": 1,
       "ip": "172.27.199.12"
       
@@ -20,56 +20,56 @@
       }
       ,
         {
-      "name": "ruba",
+      "name": "router4",
       "id": 4,
       "ip": "172.27.199.59"
       
       }
       ,
         {
-      "name": "omer",
+      "name": "router5",
       "id": 5,
       "ip": "172.27.199.4"
       
       }
       ,
         {
-      "name": "moe",
+      "name": "router6",
       "id": 6,
       "ip": "172.27.199.5"
       
       }
       ,
         {
-      "name": "razan",
+      "name": "router7",
       "id": 7,
       "ip": "172.27.199.2"
       
       }
       ,
         {
-      "name": "lilmedm",
+      "name": "router8",
       "id": 8,
       "ip": "172.27.159.299"
       
       }
       ,
         {
-      "name": "saro",
+      "name": "router9",
       "id": 9,
       "ip": "172.27.159.55"
       
       }
         ,
         {
-      "name": "jordy",
+      "name": "router10",
       "id": 10,
       "ip": "172.27.159.50"
       
       }
       ,
         {
-      "name": "taha",
+      "name": "router11",
       "id": 11,
       "ip": "172.27.159.50"
       
